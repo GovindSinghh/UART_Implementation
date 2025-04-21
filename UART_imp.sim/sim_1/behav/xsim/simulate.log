@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Sent byte: 0xa5, Received byte: 0xa5
+Sent byte: 0x3c, Received byte: 0x3c
+$finish called at time : 183550 ns : File "C:/Users/singh/OneDrive/Desktop/MinorProject/UART_imp/UART_imp.srcs/sim_1/new/uart_tb.v" Line 77
