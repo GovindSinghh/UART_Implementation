@@ -1,1 +1,1 @@
-A simple implementation of Universal Asynchronous Receiver transmitter(UART) protocol using verilog in Vivado.
+A simple implementation of Universal Asynchronous Receiver transmitter(UART) protocol using verilog in Vivado. A serial communication protocol without using clock at both side (i.e tx & rx), only by baud rate.
